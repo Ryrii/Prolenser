@@ -818,7 +818,7 @@
     path-to-regexp "3.2.0"
     tslib "2.5.0"
 
-"@nestjs/schematics@^9.0.0", "@nestjs/schematics@^9.0.4":
+"@nestjs/schematics@^9.0.4", "@nestjs/schematics@^9.1.0":
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/@nestjs/schematics/-/schematics-9.1.0.tgz#8afc4b1e7c7988c18d3ab44cffe56773b7507272"
   integrity sha512-/7CyMTnPJSK9/xD9CkCqwuHPOlHVlLC2RDnbdCJ7mIO07SdbBbY14msTqtYW9VRQtsjZPLh1GTChf7ryJUImwA==
